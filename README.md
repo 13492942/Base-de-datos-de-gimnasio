@@ -11,9 +11,9 @@ Este proyecto de base de datos para un gimnasio busca optimizar la gestión de m
 ----
 # 🤖Tecnologias que usaria:
 
--**MySQL:** Para almacenar los datos.
--**Python:** Interactuar con la base de datos.
--**Visual Studio Code:** Gestionar todo el proyecto.
+* MySQL: Para almacenar los datos.
+* Python: Interactuar con la base de datos.
+* Visual Studio Code:Gestionar todo el proyecto.
 
 ----
 >"Organizar la información no es solo un fin, sino el punto de partida para el crecimiento."
